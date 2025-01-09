@@ -6,5 +6,6 @@
 <body>
 	<p>ini file saya</p>
 	<p>Perubahan pertama</p>
+	<p>Perubahan kedua</p>
 </body>
 </html>
